@@ -55,7 +55,7 @@ Este projeto demonstra como enviar e-mails usando a biblioteca PHPMailer com o s
 ## Estrutura do Projeto
 ```
 /
-├── send_email.php  # Arquivo principal PHP para envio de e-mail
+├── index.php  # Arquivo principal PHP para envio de e-mail
 └── README.md  # Documentação
 ```
 
